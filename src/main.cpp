@@ -19,7 +19,7 @@
 // #define RELAY_PIN 6     // Module relay điều khiển đèn
 
 // Ngưỡng cảm biến khói
-#define SMOKE_THRESHOLD 950
+#define SMOKE_THRESHOLD 800
 
 // Biến toàn cục
 int passengerCount = 0;     // Số lượng người trên xe
